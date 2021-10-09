@@ -8,10 +8,6 @@ Horiseon is a web-based service provider that offers, search engine optimization
 * CSS
 
 ## Website 
-
+https://rush0218.github.io/project-horiseon/
 
 ## Contributing 
-
-
-# project-horiseon
-# project-horiseon
