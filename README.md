@@ -12,6 +12,7 @@ https://rush0218.github.io/project-horiseon/
 
 ## Screenshot
 
-(https://rush0218.github.io/project-horiseon/assets/images/Horiseon-webpage-screenshot.png)
+![Github webpage screenshot](/images/Horiseon-webpage-screenshot.png)
+Format: ![Alt Text](https://rush0218.github.io/project-horiseon/assets/images/Horiseon-webpage-screenshot.png)
 
 
